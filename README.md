@@ -1,5 +1,15 @@
 # Mern-img-uploader
-Getting Started with Create React App
+
+This app enables our users to upload their favorite images to their personal gallery. 
+
+To get started with MERN applications:
+
+Download Mongodb:
+
+Link to Mongodb community server download: https://www.mongodb.com/try/download/community
+
+
+#Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
