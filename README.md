@@ -1,6 +1,6 @@
 # Mern-img-uploader
 
-This app enables our users to upload their favorite images to their personal gallery. 
+This app enables our users to upload their favorite images to their personal gallerys. 
 
 To get started with MERN applications:
 
